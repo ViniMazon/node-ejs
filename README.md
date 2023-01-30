@@ -1,1 +1,3 @@
-# node-ejs
+# Node com EJS
+
+Estudando node utilizando EJS
